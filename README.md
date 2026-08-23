@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  Bem-vindo(a) ao meu perfil do GitHub! Sou um apaixonado por tecnologia, focado em resolver problemas de negócio através de Engenharia de Dados, Inteligência Artificial e Desenvolvimento Full-Stack.
+  Bem-vindo(a) ao meu perfil do GitHub! Sou apaixonado por tecnologia, focado em resolver problemas de negócio através de Engenharia de Dados, Inteligência Artificial e Desenvolvimento Full-Stack.
 </p>
 
 <p align="center">
@@ -18,29 +18,34 @@
 ### 🚀 Sobre Mim
 - 👨‍💻 Desenvolvendo soluções de ponta envolvendo **Inteligência Artificial**, **Big Data** e **Mobile**.
 - 🏆 **Projeto Destaque:** Arquitetura de soluções (Cloud, IA, Multithreading) para desafios estratégicos da **Sanofi**.
-- 📚 Atualmente aprofundando conhecimentos em arquiteturas escaláveis, React Native e Oracle Cloud.
+- 📚 Atualmente focado em arquiteturas de dados escaláveis, React Native e Oracle Cloud.
 
 ---
 
-### 💻 Tecnologias e Ferramentas
-
+### 🛠️ Tecnologias & Ferramentas
 <p align="center">
-  <!-- Front-end & Mobile -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <br>
-  <!-- Data & AI -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,py,mysql,oracle,git,github,vscode,idea" alt="Minhas Tecnologias" />
+  </a>
 </p>
 
+> [!NOTE]
+> *Utilizo o ecossistema Big Data e Cloud (Hadoop, Apache Sqoop, Oracle Cloud) para engenharia de dados escalável.*
+
 ---
 
-### 📊 Estatísticas do GitHub
+### 🏆 Projeto em Destaque: Sanofi Challenge (FIAP)
+**Soluções de IA e Engenharia de Dados para Governança e Qualidade**
+
+* 🧠 **Inteligência Artificial e Automação:** Algoritmos de NLP e Visão Computacional para leitura e detecção de padrões em documentos médicos (planilhas FMV e agendas), garantindo compliance com as políticas da Sanofi.
+* 🤖 **Assistentes Virtuais & GenAI:** Chatbots integrados a IAs Generativas (ChatGPT, Gemini e IBM Watson) para triagem de SAC de drogarias e automação de conteúdos de treinamento.
+* ⚡ **Alta Disponibilidade e Multithreading:** Modelagem de servidor multithread otimizado para processadores de 16 cores, dimensionado para suportar até **30.000 requisições por segundo**.
+* 📊 **Big Data e Cloud:** Pipeline de dados no ambiente **Oracle Cloud**, utilizando **Apache Sqoop** para ingestão e **Hadoop (HDFS)** para processamento e estruturação de Data Lake.
+* 📱 **Desenvolvimento Front-end & Mobile:** Transposição de plataforma web responsiva para aplicativo mobile nativo utilizando **React Native**.
+
+---
+
+### 📊 Estatísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Guimemee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Guilherme" />
@@ -50,5 +55,5 @@
 
 ---
 <p align="center">
-  <i>"Tecnologia impulsionando soluções sustentáveis e inteligentes."</i>
+  <i>"Transformando dados em inteligência e código em soluções de alto impacto."</i>
 </p>
