@@ -83,6 +83,14 @@ Tenho experiência profissional prática iniciada logo no primeiro ano de gradua
 
 ---
 
+### 📚 Resolvendo Desafios Acadêmicos (FIAP Challenges)
+Como estudante de Engenharia de Computação, documentei e publiquei as resoluções técnicas completas dos Challenges desenvolvidos em parceria com o **Hospital Alemão Oswaldo Cruz**:
+
+*   📘 **2022 - SPRINT 1:** [Resolução completa de Matemática, Circuitos Digitais e Indústria 4.0 (Ergonomia/Exoesqueleto)](./fiap-challenges/2022_sprint1_resolucao.md)
+*   📘 **2022 - SPRINT 3:** [Resolução de Física (Mecânica e Torque), Otimização Matemática (Cálculo Diferencial) e Controle de Motor de Passo sem Biblioteca (Arduino C++)](./fiap-challenges/2022_sprint3_resolucao.md)
+
+---
+
 ### 💻 Minhas Conexões Técnicas
 <p align="center">
   <a href="https://skillicons.dev">
