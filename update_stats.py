@@ -68,8 +68,8 @@ def generate_stats_card(commits_count, prs_count, issues_count, repos_count, sta
     </g>
     <g transform="translate(25, 25)">
       <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100-1.5.75.75 0 000 1.5zm0 1.5a2.25 2.25 0 100-4.5 2.25 2.25 0 000 4.5zm0 10.5a.75.75 0 100-1.5.75.75 0 000 1.5zm0 1.5a2.25 2.25 0 100-4.5 2.25 2.25 0 000 4.5z" clip-rule="evenodd" fill="#70a5fd"/>
-      <text x="25" y="12" class="label">Total Pull Requests (c/ Privados):</text>
-      <text x="270" y="12" class="stat">{prs_count}</text>
+      <text x="25" y="12" class="label">Total Pull Requests:</text>
+      <text x="180" y="12" class="stat">{prs_count}</text>
     </g>
     <g transform="translate(25, 50)">
       <path fill-rule="evenodd" d="M8 15A7 7 0 108 1a7 7 0 000 14zm0 1A8 8 0 108 0a8 8 0 000 16zM8 4a.75.75 0 01.75.75v4.5a.75.75 0 01-1.5 0v-4.5A.75.75 0 018 4zm0 8a1 1 0 100-2 1 1 0 000 2z" clip-rule="evenodd" fill="#70a5fd"/>
@@ -166,7 +166,7 @@ def generate_languages_card(languages_data):
   </style>
   <rect x="0.5" y="0.5" width="494" height="194" class="card-bg" stroke="#e4e2e2" stroke-opacity="0" />
   
-  <text x="25" y="35" class="header">Linguagens mais usadas (c/ Privados)</text>
+  <text x="25" y="35" class="header">Linguagens mais usadas</text>
   
   <!-- Rounded Progress Bar -->
   <g transform="translate(25, 55)">

@@ -7,7 +7,7 @@
   </style>
   <rect x="0.5" y="0.5" width="494" height="194" class="card-bg" stroke="#e4e2e2" stroke-opacity="0" />
   
-  <text x="25" y="35" class="header">Linguagens mais usadas (c/ Privados)</text>
+  <text x="25" y="35" class="header">Linguagens mais usadas</text>
   
   <!-- Rounded Progress Bar -->
   <g transform="translate(25, 55)">
@@ -16,7 +16,7 @@
     </clipPath>
     <g clip-path="url(#progress-bar-clip)">
       <rect width="445" height="8" fill="#2a2b36" />
-      <rect x="0" y="0" width="360.5582179011597" height="8" fill="#DA5B0B" /><rect x="359.5582179011597" y="0" width="55.51440975311539" height="8" fill="#3572A5" /><rect x="414.0726276542751" y="0" width="14.309057976529855" height="8" fill="#15AABF" /><rect x="427.38168563080495" y="0" width="8.751600495585414" height="8" fill="#3178c6" /><rect x="435.1332861263904" y="0" width="5.994984481023701" height="8" fill="#e38c00" /><rect x="440.1282706074141" y="0" width="2.6042626924649634" height="8" fill="#f1e05a" />
+      <rect x="0" y="0" width="360.3374068178611" height="8" fill="#DA5B0B" /><rect x="359.3374068178611" y="0" width="55.7542138846917" height="8" fill="#3572A5" /><rect x="414.0916207025528" y="0" width="14.300884647808193" height="8" fill="#15AABF" /><rect x="427.392505350361" y="0" width="8.746840100140362" height="8" fill="#3178c6" /><rect x="435.13934545050137" y="0" width="5.991916972399499" height="8" fill="#e38c00" /><rect x="440.1312624229009" y="0" width="2.603277486271968" height="8" fill="#f1e05a" />
     </g>
   </g>
   
@@ -25,7 +25,7 @@
     <g transform="translate(25, 95)">
       <circle cx="5" cy="-4" r="5" fill="#DA5B0B" />
       <text x="18" y="0" class="label">Jupyter Notebook</text>
-      <text x="18" y="15" class="percent">80.8%</text>
+      <text x="18" y="15" class="percent">80.7%</text>
     </g>
     <g transform="translate(250, 95)">
       <circle cx="5" cy="-4" r="5" fill="#3572A5" />
