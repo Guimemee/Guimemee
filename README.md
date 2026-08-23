@@ -72,9 +72,9 @@ Minha principal especialidade está em **Engenharia de Dados, Data Science e Mac
 ### 📊 Estatísticas (Estatísticas Ativas)
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Guimemee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Guilherme" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Guimemee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Guilherme" />
   <br>
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Guimemee&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Guimemee&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 ---
