@@ -74,7 +74,7 @@ Minha principal especialidade está em **Engenharia de Dados, Data Science e Mac
 <p align="center">
   <img src="./github-stats.svg" alt="Estatísticas do Guilherme" />
   <br>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Guimemee&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="./github-languages.svg" alt="Linguagens mais usadas" />
 </p>
 
 ---

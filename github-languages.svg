@@ -1,0 +1,55 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+    .label { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9b1d6; }
+    .percent { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #7982a9; }
+    .card-bg { fill: #1a1b27; rx: 8px; }
+  </style>
+  <rect x="0.5" y="0.5" width="494" height="194" class="card-bg" stroke="#e4e2e2" stroke-opacity="0" />
+  
+  <text x="25" y="35" class="header">Linguagens mais usadas (c/ Privados)</text>
+  
+  <!-- Rounded Progress Bar -->
+  <g transform="translate(25, 55)">
+    <clipPath id="progress-bar-clip">
+      <rect width="445" height="8" rx="4" />
+    </clipPath>
+    <g clip-path="url(#progress-bar-clip)">
+      <rect width="445" height="8" fill="#2a2b36" />
+      <rect x="0" y="0" width="360.5582179011597" height="8" fill="#DA5B0B" /><rect x="359.5582179011597" y="0" width="55.51440975311539" height="8" fill="#3572A5" /><rect x="414.0726276542751" y="0" width="14.309057976529855" height="8" fill="#15AABF" /><rect x="427.38168563080495" y="0" width="8.751600495585414" height="8" fill="#3178c6" /><rect x="435.1332861263904" y="0" width="5.994984481023701" height="8" fill="#e38c00" /><rect x="440.1282706074141" y="0" width="2.6042626924649634" height="8" fill="#f1e05a" />
+    </g>
+  </g>
+  
+  <!-- Languages List Grid -->
+  
+    <g transform="translate(25, 95)">
+      <circle cx="5" cy="-4" r="5" fill="#DA5B0B" />
+      <text x="18" y="0" class="label">Jupyter Notebook</text>
+      <text x="18" y="15" class="percent">80.8%</text>
+    </g>
+    <g transform="translate(250, 95)">
+      <circle cx="5" cy="-4" r="5" fill="#3572A5" />
+      <text x="18" y="0" class="label">Python</text>
+      <text x="18" y="15" class="percent">12.3%</text>
+    </g>
+    <g transform="translate(25, 120)">
+      <circle cx="5" cy="-4" r="5" fill="#15AABF" />
+      <text x="18" y="0" class="label">VBScript</text>
+      <text x="18" y="15" class="percent">3.0%</text>
+    </g>
+    <g transform="translate(250, 120)">
+      <circle cx="5" cy="-4" r="5" fill="#3178c6" />
+      <text x="18" y="0" class="label">TypeScript</text>
+      <text x="18" y="15" class="percent">1.7%</text>
+    </g>
+    <g transform="translate(25, 145)">
+      <circle cx="5" cy="-4" r="5" fill="#e38c00" />
+      <text x="18" y="0" class="label">TSQL</text>
+      <text x="18" y="15" class="percent">1.1%</text>
+    </g>
+    <g transform="translate(250, 145)">
+      <circle cx="5" cy="-4" r="5" fill="#f1e05a" />
+      <text x="18" y="0" class="label">JavaScript</text>
+      <text x="18" y="15" class="percent">0.4%</text>
+    </g>
+</svg>
