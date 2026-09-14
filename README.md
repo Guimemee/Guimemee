@@ -26,7 +26,7 @@
 ---
 
 ### 🚀 Sobre Mim
-Sempre fui fascinado pelo ecossistema tecnológico, hardware e pela engenharia que faz os dispositivos funcionarem. Desde muito jovem, minha curiosidade me impulsionava a entender a mecânica interna das coisas ao invés de apenas consumi-las, o que me motivou a estudar engenharia reversa em softwares e jogos na minha adolescência. 
+Sempre fui fascinado pelo ecossistema tecnológico, hardware e pela engenharia que faz os dispositivos funcionarem. Desde muito jovem, minha curiosidade me impulsionava a entender a mecânica interna das coisas ao invés de apenas consumi-las, o que me motivou a estudar engenharia reversa em softwares e hardware desde desde de mais nov
 
 Atualmente, curso **Engenharia de Computação pela FIAP**, além de expandir constantemente meu repertório técnico com formações em Data Science e Análise de Dados pela **Alura** (ambas pertencentes ao mesmo grupo educacional). 
 
@@ -39,7 +39,7 @@ Tenho experiência profissional prática iniciada logo no primeiro ano de gradua
 #### ⚡ Engenharia Eletrônica, Robótica & IoT
 * **Eletrônica e Hardware:** Desenvolvimento com base sólida técnica adquirida em eletrônica no SENAI. Domínio em análise analógica e digital de circuitos complexos, potencial elétrico e sistemas embarcados.
 * **Projetos de IoT:** Desenvolvimento e simulação usando plataformas como **Arduino** e **ESP32**, projetando placas e circuitos usando **KiCad**, **Proteus**, **Tinkercad** e diagnóstico com osciloscópios.
-* **Sistemas Físicos:** Integração de sensores industriais e biomédicos de telemetria, modelagem de atuadores e controle mecânico.
+* **Sistemas Físicos:** Integração de sensores industriais e de telemetria, modelagem de atuadores e controle mecânico.
 
 #### 📊 Engenharia de Dados, Big Data & BI
 * **Estrutura de Dados & Bancos:** SQL / T-SQL avançado (joins, CTEs, Views, DDL/DML, truncate). Modelagem dimensional (Tabelas Fato e Dimensão, controle de histórico com SCD/Slowly Changing Dimensions) e Data Mining.
