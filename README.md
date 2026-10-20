@@ -10,27 +10,41 @@
 
 <br>
 
-<!-- CARDS 2 E 3: ATIVIDADE DE COMMITS & ANÁLISE DE LINGUAGENS -->
+<!-- CARD 2: ATIVIDADE DE COMMITS & CALENDÁRIO DO REPOSITÓRIO TOTAL -->
 <div align="center">
-  <img src="./assets/card_repo_metrics.svg" alt="Atividade de Commits &amp; Calendário" width="49%" style="max-width: 440px;" />
-  &nbsp;
-  <img src="./assets/card_languages.svg" alt="Linguagens de Programação &amp; Análise" width="49%" style="max-width: 440px;" />
+  <img src="./assets/card_repo_metrics.svg" alt="Atividade de Commits &amp; Calendário" width="100%" style="max-width: 620px;" />
 </div>
 
 <br>
 
-<!-- CARD 4: MÉTRICAS TÉCNICAS CONSOLIDADAS -->
+<!-- CARD 3: ANÁLISE DE LINGUAGENS DE PROGRAMAÇÃO -->
+<div align="center">
+  <img src="./assets/card_languages.svg" alt="Linguagens de Programação &amp; Análise" width="100%" style="max-width: 620px;" />
+</div>
+
+<br>
+
+<!-- CARD 4: MÉTRICAS TÉCNICAS CONSOLIDADAS TOTAIS -->
 <div align="center">
   <img src="./assets/card_consolidated_metrics.svg" alt="Métricas Técnicas &amp; Atividade Consolidada" width="100%" style="max-width: 880px;" />
 </div>
 
 <br>
 
-> [!IMPORTANT]
-> ### 🌐 Perfil Social & Conexões Oficiais
-> * 🚀 **Cyber Portfólio Live (GitPage):** [guimemee.github.io](https://guimemee.github.io)
-> * 💼 **LinkedIn Oficial:** [linkedin.com/in/guimemee](https://www.linkedin.com/in/guimemee/)
-> * 👨‍💻 **Google Developer Profile:** [g.dev/guimemee](https://g.dev/guimemee)
+<!-- PORTFÓLIO GITPAGE & CONEXÕES -->
+<p align="center">
+  <a href="https://guimemee.github.io/">
+    <img src="https://img.shields.io/badge/Portfólio_GitPage-guimemee.github.io-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=070d18" alt="Portfólio GitPage" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/guimemee/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://g.dev/guimemee">
+    <img src="https://img.shields.io/badge/Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer" />
+  </a>
+</p>
 
 ---
 
@@ -38,12 +52,12 @@
 
 Os **Corporate Challenges da FIAP** representam desafios de inovação aberta realizados em parceria anual direta com grandes multinacionais e hospitais de referência:
 
-| Ano | Empresa Parceira & Desafio | Resumo da Solução de Engenharia | Acesso ao Projeto |
+| Ano | Empresa | Projeto | Repositório |
 | :---: | :--- | :--- | :---: |
 | **2022** | **Hospital Alemão Oswaldo Cruz (HAOC)** | Robótica hospitalar autônoma de leitos, telemetria clínica em tempo real, modelagem CAD 3D no Autodesk Inventor e análise de break-even de viabilidade econômica. | [🌐 Portal Live](https://guimemee.github.io/fiap-challenge-2022-haoc/)<br>[📂 Repositório](https://github.com/Guimemee/fiap-challenge-2022-haoc) |
-| **2023** | **Natura Innovation Challenge** | Monitoramento ambiental amazônico com rede de telemetria LoRaWAN de longo alcance, rastreabilidade de bioeconomia, backend Java Clean Code e IA para biomassa. | [🌐 Portal Live](https://guimemee.github.io/fiap-challenge-2023-natura/)<br>[📂 Repositório](https://github.com/Guimemee/fiap-challenge-2023-natura) |
-| **2024** | **Sanofi EC Pharma Challenge** | Embarcação não tripulada (USV) autônoma para coleta de microplásticos aquáticos, propulsão elétrica solar, detecção por visão computacional YOLOv8 e navegação GPS-RTK. | [🌐 Portal Live](https://guimemee.github.io/fiap-challenge-2024-sanofi/)<br>[📂 Repositório](https://github.com/Guimemee/fiap-challenge-2024-sanofi) |
-| **2025** | **SPI / Metaindústria Smart Robotics** | Gêmeos Digitais 3D na nuvem, células robóticas de manufatura flexível 4.0, barramento determinístico industrial OPC UA e governança de cibersegurança fabril sob norma IEC 62443. | [🌐 Portal Live](https://guimemee.github.io/fiap-challenge-2025-spi-metaindustria/)<br>[📂 Repositório](https://github.com/Guimemee/fiap-challenge-2025-spi-metaindustria) |
+| **2023** | **Natura** | Monitoramento ambiental amazônico com rede de telemetria LoRaWAN de longo alcance, rastreabilidade de bioeconomia, backend Java Clean Code e IA para biomassa. | [🌐 Portal Live](https://guimemee.github.io/fiap-challenge-2023-natura/)<br>[📂 Repositório](https://github.com/Guimemee/fiap-challenge-2023-natura) |
+| **2024** | **Sanofi** | Embarcação não tripulada (USV) autônoma para coleta de microplásticos aquáticos, propulsão elétrica solar, detecção por visão computacional YOLOv8 e navegação GPS-RTK. | [🌐 Portal Live](https://guimemee.github.io/fiap-challenge-2024-sanofi/)<br>[📂 Repositório](https://github.com/Guimemee/fiap-challenge-2024-sanofi) |
+| **2025** | **SPI / Metaindústria** | Gêmeos Digitais 3D na nuvem, células robóticas de manufatura flexível 4.0, barramento determinístico industrial OPC UA e governança de cibersegurança fabril sob norma IEC 62443. | [🌐 Portal Live](https://guimemee.github.io/fiap-challenge-2025-spi-metaindustria/)<br>[📂 Repositório](https://github.com/Guimemee/fiap-challenge-2025-spi-metaindustria) |
 
 <details>
 <summary><strong>📄 Visualizar Artigos e Cadernos Técnicos Internos dos Challenges</strong></summary>
@@ -66,17 +80,17 @@ Os **Corporate Challenges da FIAP** representam desafios de inovação aberta re
 
 Projetos semestrais interdisciplinares de alta densidade técnica abrangendo todas as cadeiras de engenharia da FIAP (2 por ano de 2022 a 2025 e 1 no último ano letivo de 2026):
 
-| Período | Tema & Desafio Global | Solução de Engenharia & Tecnologias | Repositório |
+| Período | Tema | Projeto | Repositório |
 | :---: | :--- | :--- | :---: |
 | `2022 • 1º Sem` | **⚡ Electrical Mobility** | Dimensionamento de powertrain e instrumentação física de grandezas de veículos elétricos modulares (velocidade, torque, baterias). | [🔗 Acessar](https://github.com/Guimemee/fiap-electrical-engineering-lab-skills) |
-| `2022 • 2º Sem` | **🚗 Smart Mobility (Carsharing IoT)** | Sistema de sensoriamento IoT automotivo, rastreamento GPS/GSM, circuitos lógicos de bancada e modelagem CAD veicular. | [🔗 Acessar](https://github.com/Guimemee/fiap-digital-circuits-and-logic) |
-| `2023 • 1º Sem` | **🌱 Tech for Good (Agricultura)** | Analisador automático de solo com PCB dedicada KiCad, telemetria contínua Java (pH, condutividade e umidade) e fotobiologia microcontrolada. | [🔗 Acessar](https://github.com/Guimemee/fiap-advanced-programming-and-mobile-dev) |
-| `2023 • 2º Sem` | **👕 TechCare 4 All (E-Textile)** | Camiseta inteligente (*smartshirt*) para monitoramento de sinais vitais (ECG, temperatura corporal e pressão arterial) com Bluetooth. | [🔗 Acessar](https://github.com/Guimemee/fiap-embedded-systems) |
-| `2024 • 1º Sem` | **🌊 Blue Future (Microplásticos)** | Embarcação autônoma USV para contenção marinha com RTOS determinístico, IA de visão computacional e simulação Cisco Packet Tracer. | [🔗 Acessar](https://github.com/Guimemee/fiap-sistemas-operacionais) |
-| `2024 • 2º Sem` | **🔋 Green Energy (Smart Charging)** | Infraestrutura para eletromobilidade, balanceamento inteligente de rede elétrica, telemetria em nuvem e dashboards analíticos de recarga. | [🔗 Acessar](https://github.com/Guimemee/fiap-computer-engineering-portfolio) |
+| `2022 • 2º Sem` | **🚗 Smart Mobility** | Sistema de sensoriamento IoT automotivo, rastreamento GPS/GSM, circuitos lógicos de bancada e modelagem CAD veicular. | [🔗 Acessar](https://github.com/Guimemee/fiap-digital-circuits-and-logic) |
+| `2023 • 1º Sem` | **🌱 Tech for Good** | Analisador automático de solo com PCB dedicada KiCad, telemetria contínua Java (pH, condutividade e umidade) e fotobiologia microcontrolada. | [🔗 Acessar](https://github.com/Guimemee/fiap-advanced-programming-and-mobile-dev) |
+| `2023 • 2º Sem` | **👕 TechCare 4 All** | Camiseta inteligente (*smartshirt*) para monitoramento de sinais vitais (ECG, temperatura corporal e pressão arterial) com Bluetooth. | [🔗 Acessar](https://github.com/Guimemee/fiap-embedded-systems) |
+| `2024 • 1º Sem` | **🌊 Blue Future** | Embarcação autônoma USV para contenção marinha com RTOS determinístico, IA de visão computacional e simulação Cisco Packet Tracer. | [🔗 Acessar](https://github.com/Guimemee/fiap-sistemas-operacionais) |
+| `2024 • 2º Sem` | **🔋 Green Energy** | Infraestrutura para eletromobilidade, balanceamento inteligente de rede elétrica, telemetria em nuvem e dashboards analíticos de recarga. | [🔗 Acessar](https://github.com/Guimemee/fiap-computer-engineering-portfolio) |
 | `2025 • 1º Sem` | **🌍 ESA Digital Twin Earth** | Gêmeos digitais planetários orientados a microsserviços distribuídos em nuvem e processamento de fluxos geoespaciais em tempo real. | [🔗 Acessar](https://github.com/Guimemee/fiap-computacao-distribuida-e-cloud-computing) |
-| `2025 • 2º Sem` | **🤖 Indústria 5.0 (Cobots & OT)** | Robótica colaborativa (Cobots), modelagem de autômatos celulares, linguagens formais e governança de segurança cibernética fabril (IEC 62443). | [🔗 Acessar](https://github.com/Guimemee/fiap-computer-engineering-portfolio) |
-| `2026 • 1º Sem` | **🛰️ Deep Space Network (Aeroespacial)** | Infraestrutura de missão crítica e tolerância a falhas para operações em espaço profundo com FreeRTOS e automação autônoma de nós de telemetria. | [🔗 Acessar](https://github.com/Guimemee/fiap-sistemas-de-tempo-real) |
+| `2025 • 2º Sem` | **🤖 Indústria 5.0** | Robótica colaborativa (Cobots), modelagem de autômatos celulares, linguagens formais e governança de segurança cibernética fabril (IEC 62443). | [🔗 Acessar](https://github.com/Guimemee/fiap-computer-engineering-portfolio) |
+| `2026 • 1º Sem` | **🛰️ Deep Space Network** | Infraestrutura de missão crítica e tolerância a falhas para operações em espaço profundo com FreeRTOS e automação autônoma de nós de telemetria. | [🔗 Acessar](https://github.com/Guimemee/fiap-sistemas-de-tempo-real) |
 
 ---
 
@@ -87,7 +101,7 @@ Projetos semestrais interdisciplinares de alta densidade técnica abrangendo tod
 <br>
 
 * **📊 Microsoft Power BI & DAX Avançado:** 155+ relatórios e dashboards corporativos confidenciais desenvolvidos para monitoramento operacional, controle de SLAs de expedição, conciliação fiscal e engenharia de custos operacionais.
-* **📱 Microsoft Power Apps:** Aplicações Canvas integradas a Dataverse e SharePoint para auditoria de inventário fabril, aprovação de despesas e triagem de ordens de serviço.
+* **📱 Microsoft Power Apps:** Aplicações Canvas integradas a Dataverse e SharePoint com uso de Collections, GroupBy, Merge e modelagem relacional.
 * **🤖 SAP GUI & Bots Python/VBScript:** Mais de 110 rotinas de automação robótica de processos (RPA) para lançamentos em massa no módulo SAP EWM/MM, emissão automatizada de ordens e reconciliação fiscal.
 * **🗄️ SQL & Data Warehouse:** 45 scripts de DDL, views analíticas, stored procedures e rotinas de ingestão no Oracle Cloud, BigQuery e PostgreSQL.
 
@@ -111,7 +125,7 @@ Projetos semestrais interdisciplinares de alta densidade técnica abrangendo tod
 
 ---
 
-### 💻 // TERMINAL CLI SIMULADO (CYBER BASH)
+### 💻 // TERMINAL CLI
 
 ```bash
 guilherme@fiap:~$ ./query_acervo.sh --summary
@@ -135,7 +149,7 @@ guilherme@fiap:~$ █
 <div align="center">
 
   <a href="https://guimemee.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Acessar_Cyber_Portfólio-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=070d18" alt="Cyber Portfolio" />
+    <img src="https://img.shields.io/badge/Acessar_Portfólio_GitPage-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=070d18" alt="Cyber Portfolio" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/guimemee/" target="_blank">
