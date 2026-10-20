@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="205" viewBox="0 0 880 205" fill="none">
+    <style>
+        .card-bg { fill: #0e121b; stroke: #232938; stroke-width: 1.5; rx: 8px; }
+        .divider { stroke: #232938; stroke-width: 1.5; }
+        .num { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 28px; font-weight: 800; fill: #ffffff; text-anchor: middle; }
+        .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13.5px; font-weight: 700; fill: #79c0ff; text-anchor: middle; }
+        .sub { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 500; fill: #8b949e; text-anchor: middle; }
+        .badge-txt { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 800; letter-spacing: 0.5px; }
+    </style>
+    
+    <rect width="878" height="203" x="1" y="1" class="card-bg"/>
+
+    <!-- Vertical dividers -->
+    <line x1="220" y1="1" x2="220" y2="204" class="divider"/>
+    <line x1="440" y1="1" x2="440" y2="204" class="divider"/>
+    <line x1="660" y1="1" x2="660" y2="204" class="divider"/>
+
+    <!-- ================= COLUMN 1: PBIX PRIVADOS ================= -->
+    <g transform="translate(110, 24)">
+        <!-- Pill Badge -->
+        <g transform="translate(-68, 0)">
+            <rect width="136" height="24" rx="4" fill="#eab308"/>
+            <!-- Lock SVG -->
+            <path d="M5 8V6a3 3 0 016 0v2h1a1 1 0 011 1v5a1 1 0 01-1 1H3a1 1 0 01-1-1V9a1 1 0 011-1h2zm2-2a1 1 0 012 0v2H7V6zm-1 5a1 1 0 102 0 1 1 0 00-2 0z" fill="#070d18" transform="translate(10, 4) scale(0.9)"/>
+            <text x="32" y="16" class="badge-txt" fill="#070d18">PBIX PRIVADOS 🔒</text>
+        </g>
+        
+        <!-- Big Number -->
+        <text x="0" y="74" class="num">155+</text>
+        
+        <!-- Subtitles -->
+        <text x="0" y="112" class="title">Modelos Corporativos Internos</text>
+        <text x="0" y="132" class="sub">DAX Avançado, SLAs &amp; Custos</text>
+    </g>
+
+    <!-- ================= COLUMN 2: SQL DW SCRIPTS ================= -->
+    <g transform="translate(330, 24)">
+        <!-- Pill Badge -->
+        <g transform="translate(-68, 0)">
+            <rect width="136" height="24" rx="4" fill="#00f2fe"/>
+            <!-- Database SVG -->
+            <path d="M2 4c0-1.1 3.58-2 8-2s8 .9 8 2-3.58 2-8 2-8-.9-8-2zm0 4.5c0 1.1 3.58 2 8 2s8-.9 8-2V7c-1.5 1-4.5 1.5-8 1.5S3.5 8 2 7v1.5zm0 5c0 1.1 3.58 2 8 2s8-.9 8-2V12c-1.5 1-4.5 1.5-8 1.5s-6.5-.5-8-1.5v1.5z" fill="#070d18" transform="translate(10, 4) scale(0.9)"/>
+            <text x="32" y="16" class="badge-txt" fill="#070d18">SQL DW SCRIPTS</text>
+        </g>
+        
+        <!-- Big Number -->
+        <text x="0" y="74" class="num">45</text>
+        
+        <!-- Subtitles -->
+        <text x="0" y="112" class="title">Pipelines &amp; Modelagem</text>
+        <text x="0" y="132" class="sub">DDL, Views Analíticas &amp; ETL</text>
+    </g>
+
+    <!-- ================= COLUMN 3: CHALLENGES FIAP ================= -->
+    <g transform="translate(550, 24)">
+        <!-- Pill Badge -->
+        <g transform="translate(-68, 0)">
+            <rect width="136" height="24" rx="4" fill="#818cf8"/>
+            <!-- Trophy SVG -->
+            <path d="M4 3h12v3a6 6 0 01-5 5.92V14h3a1 1 0 011 1v1H5v-1a1 1 0 011-1h3v-2.08A6 6 0 014 6V3zm-2 2h2v2a4 4 0 01-2-2zm16 0a4 4 0 01-2 2V5h2z" fill="#070d18" transform="translate(10, 4) scale(0.9)"/>
+            <text x="32" y="16" class="badge-txt" fill="#070d18">CHALLENGES FIAP</text>
+        </g>
+        
+        <!-- Big Number -->
+        <text x="0" y="74" class="num">4</text>
+        
+        <!-- Subtitles -->
+        <text x="0" y="112" class="title">Desafios Corporativos</text>
+        <text x="0" y="132" class="sub">HAOC, Natura, Sanofi &amp; SPI</text>
+    </g>
+
+    <!-- ================= COLUMN 4: GLOBAL SOLUTIONS ================= -->
+    <g transform="translate(770, 24)">
+        <!-- Pill Badge -->
+        <g transform="translate(-72, 0)">
+            <rect width="144" height="24" rx="4" fill="#c084fc"/>
+            <!-- Globe SVG -->
+            <path d="M10 2a8 8 0 100 16 8 8 0 000-16zM3.46 11A6.02 6.02 0 013 10c0-.34.03-.68.08-1h2.12c-.06.66-.1 1.32-.1 2H3.46zm.4-4a6.02 6.02 0 011.24-2.5 7.97 7.97 0 012.33 2.5H3.86zM8 4.07A6.47 6.47 0 006.18 7h3.64A6.47 6.47 0 008 4.07zM7.1 9h1.8c.06.66.1 1.32.1 2H7c0-.68.04-1.34.1-2zm-.92 2H3.94a6.02 6.02 0 011.24 2.5A7.97 7.97 0 016.18 11zm1.82 4.93A6.47 6.47 0 009.82 13H6.18a6.47 6.47 0 001.82 2.93zm2-3.93a7.97 7.97 0 012.33-2.5 6.02 6.02 0 011.24 2.5h-3.57zm.9-2H10.9c.06-.68.1-1.34.1-2h1.82c.05.32.08.66.08 1 0 .34-.03.68-.08 1h-.92z" fill="#070d18" transform="translate(10, 3) scale(0.9)"/>
+            <text x="32" y="16" class="badge-txt" fill="#070d18">GLOBAL SOLUTIONS</text>
+        </g>
+        
+        <!-- Big Number -->
+        <text x="0" y="74" class="num">9 GS</text>
+        
+        <!-- Subtitles -->
+        <text x="0" y="112" class="title">Soluções Interdisciplinares</text>
+        <text x="0" y="132" class="sub">2/ano (2022-2025) • 1 em 2026</text>
+    </g>
+</svg>

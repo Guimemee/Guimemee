@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="235" viewBox="0 0 560 235" fill="none">
+    <style>
+        .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; rx: 6px; }
+        .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; fill: #58a6ff; }
+        .text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13.5px; fill: #c9d1d9; }
+        .muted { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; fill: #8b949e; }
+        .icon { fill: #8b949e; }
+        .icon-blue { fill: #58a6ff; }
+    </style>
+    <rect width="558" height="233" x="1" y="1" class="bg"/>
+
+    <!-- Section Header -->
+    <g transform="translate(18, 16)">
+        <text x="0" y="12" class="text" style="font-size: 13px; fill: #8b949e;">▼ Full year calendar</text>
+        <svg viewBox="0 0 16 16" width="14" height="14" class="icon-blue" x="0" y="24">
+            <path fill-rule="evenodd" d="M4.75 0a.75.75 0 01.75.75V2h5V.75a.75.75 0 011.5 0V2h1.25C14.44 2 15 2.56 15 3.25v10.5A1.25 1.25 0 0113.75 15H2.25A1.25 1.25 0 011 13.75V3.25C1 2.56 1.56 2 2.25 2H3.5V.75A.75.75 0 014.75 0zm9 5.5H2.25a.25.25 0 00-.25.25v8a.25.25 0 00.25.25h11.5a.25.25 0 00.25-.25v-8a.25.25 0 00-.25-.25z"/>
+        </svg>
+        <text x="20" y="36" class="title" style="font-size: 15px;">Contributions calendar</text>
+    </g>
+
+    <!-- Isometric 3D grid illustration (vector isometric blocks) -->
+    <g transform="translate(24, 80)">
+        <polygon points="100,0 200,50 100,100 0,50" fill="#161b22" stroke="#21262d" stroke-width="0.5"/>
+        <polygon points="70,15 170,65 130,85 30,35" fill="#0e4429" opacity="0.6"/>
+        <polygon points="120,30 180,60 150,75 90,45" fill="#006d32" opacity="0.8"/>
+
+        <!-- 3D Cubes Level 1 -->
+        <g transform="translate(45, 25)">
+            <polygon points="12,0 24,6 12,12 0,6" fill="#39d353"/>
+            <polygon points="0,6 12,12 12,22 0,16" fill="#26a641"/>
+            <polygon points="12,12 24,6 24,16 12,22" fill="#006d32"/>
+        </g>
+        <g transform="translate(70, 38)">
+            <polygon points="12,0 24,6 12,12 0,6" fill="#39d353"/>
+            <polygon points="0,6 12,12 12,28 0,22" fill="#26a641"/>
+            <polygon points="12,12 24,6 24,22 12,28" fill="#006d32"/>
+        </g>
+        <g transform="translate(95, 20)">
+            <polygon points="12,0 24,6 12,12 0,6" fill="#56d364"/>
+            <polygon points="0,6 12,12 12,34 0,28" fill="#2ea043"/>
+            <polygon points="12,12 24,6 24,28 12,34" fill="#238636"/>
+        </g>
+        <g transform="translate(120, 32)">
+            <polygon points="12,0 24,6 12,12 0,6" fill="#39d353"/>
+            <polygon points="0,6 12,12 12,20 0,14" fill="#26a641"/>
+            <polygon points="12,12 24,6 24,14 12,20" fill="#006d32"/>
+        </g>
+        <g transform="translate(60, 52)">
+            <polygon points="12,0 24,6 12,12 0,6" fill="#56d364"/>
+            <polygon points="0,6 12,12 12,30 0,24" fill="#2ea043"/>
+            <polygon points="12,12 24,6 24,24 12,30" fill="#238636"/>
+        </g>
+    </g>
+
+    <!-- Calendar Metrics & Streaks Right Column -->
+    <g transform="translate(240, 60)">
+        <!-- Streaks -->
+        <g transform="translate(0, 0)">
+            <svg viewBox="0 0 16 16" width="14" height="14" class="icon-blue" x="0" y="0">
+                <path fill-rule="evenodd" d="M12.43 5.07a5.5 5.5 0 00-8.86 0 .75.75 0 11-1.14-.98 7 7 0 0111.14 0 .75.75 0 11-1.14.98zM9.59 7.91a2 2 0 00-3.18 0 .75.75 0 11-1.14-.98 3.5 3.5 0 015.46 0 .75.75 0 11-1.14.98z"/>
+            </svg>
+            <text x="20" y="11" class="title" style="font-size: 15px;">Commits streaks</text>
+            <text x="20" y="27" class="text">💥 Best streak 14 days</text>
+        </g>
+
+        <!-- Commits per day -->
+        <g transform="translate(0, 48)">
+            <svg viewBox="0 0 16 16" width="14" height="14" class="icon-blue" x="0" y="0">
+                <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
+            </svg>
+            <text x="20" y="11" class="title" style="font-size: 15px;">Commits per day</text>
+            <text x="20" y="27" class="text">↑ Highest in a day at 24</text>
+            <text x="20" y="42" class="text">÷ Average per day ~3.5</text>
+        </g>
+
+        <!-- Status do repositório -->
+        <g transform="translate(0, 114)">
+            <text x="0" y="0" class="muted">📁 106 Códigos &amp; 3.113 Linhas Registradas</text>
+        </g>
+    </g>
+</svg>

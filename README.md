@@ -3,73 +3,40 @@
      Tema: Dark Sci-Fi / Cyberpunk Terminal (Espelhado no GitPage)
 ======================================================== -->
 
+<!-- CARD 1: INFORMAÇÕES PESSOAIS & PERFIL -->
 <div align="center">
-
-  <!-- BANNER ANIMADO DE APRESENTAÇÃO -->
-  <a href="https://guimemee.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=00F2FE&center=true&vCenter=true&width=750&lines=Guilherme+Macario+da+Silva;FIAP+%E2%80%A2+Engenharia+de+Computa%C3%A7%C3%A3o+(2022+-+2026);Data+Engineer+%7C+Data+Science+%7C+SAP+%26+Automa%C3%A7%C3%B5es;Rob%C3%B3tica%2C+IoT+Industrial%2C+RTOS+%26+Digital+Twins" alt="Cyber Title Typing SVG" />
-  </a>
-
-  <p align="center">
-    <strong>Engenheiro de Computação em formação pela FIAP • Especialista em Pipelines de Dados, BI Corporativo & Hardware Crítico</strong>
-  </p>
-
-  <!-- STATUS PILLS / BADGES -->
-  <p align="center">
-    <a href="https://guimemee.github.io"><img src="https://img.shields.io/badge/PORTFÓLIO_LIVE-guimemee.github.io-00f2fe?style=for-the-badge&logo=google-chrome&logoColor=070d18" alt="Cyber Profile Live" /></a>
-    <a href="https://www.linkedin.com/in/guimemee/"><img src="https://img.shields.io/badge/LINKEDIN-Guilherme_Macário-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <img src="https://img.shields.io/badge/STATUS-ONLINE_%2F_DISPONÍVEL-00e676?style=for-the-badge&logo=statuspage&logoColor=070d18" alt="Status" />
-    <img src="https://img.shields.io/badge/LOCAL-São_Paulo%2C_Brasil-7928ca?style=for-the-badge&logo=google-maps&logoColor=white" alt="Local" />
-  </p>
-
+  <img src="./assets/card_profile.svg" alt="Guilherme Macario da Silva • Informações Pessoais" width="100%" style="max-width: 620px;" />
 </div>
 
----
+<br>
 
-### ⚡ // MÉTRICAS TÉCNICAS & ATIVIDADE CONSOLIDADA
+<!-- CARDS 2 E 3: ATIVIDADE DE COMMITS & ANÁLISE DE LINGUAGENS -->
+<div align="center">
+  <img src="./assets/card_repo_metrics.svg" alt="Atividade de Commits &amp; Calendário" width="49%" style="max-width: 440px;" />
+  &nbsp;
+  <img src="./assets/card_languages.svg" alt="Linguagens de Programação &amp; Análise" width="49%" style="max-width: 440px;" />
+</div>
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%" bgcolor="#0e121b">
-      <br>
-      <img src="https://img.shields.io/badge/PBIX-PRIVADOS_🔒-eab308?style=flat-square&logo=powerbi&logoColor=white" alt="PBIX" /><br>
-      <h2 align="center"><code>155+</code></h2>
-      <p align="center"><small><strong>Modelos Corporativos Internos</strong><br>DAX Avançado, SLAs & Custos</small></p>
-    </td>
-    <td align="center" width="25%" bgcolor="#0e121b">
-      <br>
-      <img src="https://img.shields.io/badge/SQL_DW-SCRIPTS-00f2fe?style=flat-square&logo=sqlite&logoColor=070d18" alt="SQL DW" /><br>
-      <h2 align="center"><code>45</code></h2>
-      <p align="center"><small><strong>Pipelines & Modelagem</strong><br>DDL, Views Analíticas & ETL</small></p>
-    </td>
-    <td align="center" width="25%" bgcolor="#0e121b">
-      <br>
-      <img src="https://img.shields.io/badge/CHALLENGES-FIAP-818cf8?style=flat-square&logo=target&logoColor=white" alt="Challenges" /><br>
-      <h2 align="center"><code>4</code></h2>
-      <p align="center"><small><strong>Desafios Corporativos</strong><br>HAOC, Natura, Sanofi & SPI</small></p>
-    </td>
-    <td align="center" width="25%" bgcolor="#0e121b">
-      <br>
-      <img src="https://img.shields.io/badge/AVALIAÇÕES-TOTAIS-c084fc?style=flat-square&logo=githubactions&logoColor=white" alt="Avaliações" /><br>
-      <h2 align="center"><code>242</code></h2>
-      <p align="center"><small><strong>Atividades Avaliativas</strong><br>Provas Públicas + Exercícios Privados</small></p>
-    </td>
-  </tr>
-</table>
+<br>
 
----
+<!-- CARD 4: MÉTRICAS TÉCNICAS CONSOLIDADAS -->
+<div align="center">
+  <img src="./assets/card_consolidated_metrics.svg" alt="Métricas Técnicas &amp; Atividade Consolidada" width="100%" style="max-width: 880px;" />
+</div>
+
+<br>
 
 > [!IMPORTANT]
-> ### 🔒 GOVERNANÇA ACADÊMICA: POLÍTICA DE EXERCÍCIOS VS. PROVAS
-> * **Exercícios de Fixação & Laboratórios de Bancada:** Mantidos sob sigilo institucional restrito (**🔒 Privados**), contudo permanecem **integralmente auditados e computados na contagem volumétrica total de 242 avaliações acadêmicas** da graduação.
-> * **Provas Oficiais, Checkpoints & NACs:** **100% públicos e auditáveis**, com resoluções algébricas passo a passo (padrão Symbolab), cadernos interativos Jupyter (`SymPy`, `NumPy`, `Matplotlib`) e relatórios técnicos.
-> * **Corporate Challenges & Global Solutions:** Totalmente públicos, documentados com portais dedicados via GitHub Pages.
+> ### 🌐 Perfil Social & Conexões Oficiais
+> * 🚀 **Cyber Portfólio Live (GitPage):** [guimemee.github.io](https://guimemee.github.io)
+> * 💼 **LinkedIn Oficial:** [linkedin.com/in/guimemee](https://www.linkedin.com/in/guimemee/)
+> * 👨‍💻 **Google Developer Profile:** [g.dev/guimemee](https://g.dev/guimemee)
 
 ---
 
-### 🏛️ // PROJETOS ACADÊMICOS — FIAP CHALLENGES (4 DESAFIOS OFICIAIS)
+### 🏛️ // PROJETOS ACADÊMICOS
 
-Os **Challenges Corporativos da FIAP** representam desafios de inovação aberta realizados em parceria anual direta com grandes multinacionais e hospitais de referência:
+Os **Corporate Challenges da FIAP** representam desafios de inovação aberta realizados em parceria anual direta com grandes multinacionais e hospitais de referência:
 
 | Ano | Empresa Parceira & Desafio | Resumo da Solução de Engenharia | Acesso ao Projeto |
 | :---: | :--- | :--- | :---: |
@@ -129,16 +96,6 @@ Projetos semestrais interdisciplinares de alta densidade técnica abrangendo tod
 
 ---
 
-### 📊 // ATIVIDADE GIT & TELEMETRIA GITHUB
-
-<div align="center">
-  <img src="./github-stats.svg" alt="Estatísticas do GitHub" height="175" />
-  &nbsp;
-  <img src="./github-languages.svg" alt="Linguagens mais usadas" height="175" />
-</div>
-
----
-
 ### 🛠️ // STACK TECNOLÓGICO & COMPETÊNCIAS
 
 <div align="center">
@@ -164,7 +121,6 @@ guilherme@fiap:~$ ./query_acervo.sh --summary
 [ACADÊMICO] FIAP • Engenharia de Computação (2022 - 2026)
 [CHALLENGES] 4 Parcerias Concluídas: HAOC, Natura, Sanofi, SPI Metaindústria
 [GLOBAL SOL] 9 Projetos Semestrais Homologados (2/ano até 2025 | 1 em 2026)
-[AVALIAÇÕES] 242 Entregas Totais (🔒 Exercícios Privados + 🔓 Provas Públicas)
 [DATA & BI]  155+ Power BIs Corporativos Privados | 45 Scripts SQL DW
 [AUTOMAÇÕES] 110+ Scripts SAP GUI & Python RPA de Alta Performance
 [STATUS]     100% dos Repositórios Oficiais Conectados e Auditados
@@ -186,12 +142,12 @@ guilherme@fiap:~$ █
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://github.com/Guimemee" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://g.dev/guimemee" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer" />
   </a>
   &nbsp;
-  <a href="mailto:guilherme.macario@aluno.fiap.com.br">
-    <img src="https://img.shields.io/badge/E--mail_Institucional-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://github.com/Guimemee" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <br><br>
