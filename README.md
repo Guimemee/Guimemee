@@ -1,7 +1,6 @@
 <!-- ========================================================
      CYBER PROFILE README - GITHUB HOMEPAGE (Guimemee/Guimemee)
      Tema: Dark Sci-Fi / Cyberpunk Terminal (Espelhado no GitPage)
-======================================================== -->
 
 <!-- CARD 1: INFORMAÇÕES PESSOAIS & PERFIL -->
 <div align="center">
@@ -69,8 +68,10 @@ Os **Corporate Challenges da FIAP** representam desafios de inovação aberta re
   * [Internet das Coisas (IoT): Protocolo MQTT na Indústria 4.0](./oswaldo-cruz-docs/iot_mqtt_industry.md)
   * [Design Mecânico: Concepção do Robô Auxiliar e Modelagem 3D (CAD)](./oswaldo-cruz-docs/robotics_oswaldo_cruz.md)
 * **Cadernos Científicos & Sprints:**
-  * [Sprint 1: Resolução completa de Matemática, Circuitos Digitais e Ergonomia](./fiap-challenges/2022_sprint1_resolucao.md)
-  * [Sprint 3: Resolução de Física (Mecânica e Torque), Cálculo e Controle de Motores](./fiap-challenges/2022_sprint3_resolucao.md)
+  * [Sprint 1 & 2: Exoesqueleto Robótico para Reabilitação Patelofemoral (BCI NeuroSky, Metrologia [90°, 180°] e Telemetria BLE)](./fiap-challenges/EXOESQUELETO_REABILITACAO_HOSPITAL_OSWALDO_CRUZ.md)
+  * [Sprint 3 & 4: Resolução Completa de Otimização (RDP), Robô Skatista (ECFO Física) e Controle Manual de Motor de Passo](./fiap-challenges/ENTREGA_SPRINT_3_E_4_RESOLUCAO_COMPLETA.md)
+  * [Modelos CAD 3D (.ipt - Autodesk Inventor) & Literatura Científica: Encaixe do Motor e Eixo Articular](./fiap-challenges/cad-models/Encaixe-Motor.ipt)
+  * [Firmware Oficial do Motor de Passo (Modo Half-Step 8 Fases sem Bibliotecas)](./fiap-challenges/controle_motor_passo_halfstep.ino)
   * [Visão Computacional: Detecção de Padrões com YOLOv8](./fiap-challenges/Imagens_Checkpoint_4_PARTE_01_Modelos_de_Vis%C3%A3o_Computacional_com_Yolo_V8_.ipynb)
 </details>
 
@@ -129,16 +130,13 @@ Projetos semestrais interdisciplinares de alta densidade técnica abrangendo tod
 
 ```bash
 guilherme@fiap:~$ ./query_acervo.sh --summary
-========================================================================
 ⚡ GUILHERME MACÁRIO DA SILVA — SUMMARY DA GRADUAÇÃO & CARREIRA
-========================================================================
 [ACADÊMICO] FIAP • Engenharia de Computação (2022 - 2026)
 [CHALLENGES] 4 Parcerias Concluídas: HAOC, Natura, Sanofi, SPI Metaindústria
 [GLOBAL SOL] 9 Projetos Semestrais Homologados (2/ano até 2025 | 1 em 2026)
 [DATA & BI]  155+ Power BIs Corporativos Privados | 45 Scripts SQL DW
 [AUTOMAÇÕES] 110+ Scripts SAP GUI & Python RPA de Alta Performance
 [STATUS]     100% dos Repositórios Oficiais Conectados e Auditados
-========================================================================
 guilherme@fiap:~$ █
 ```
 
